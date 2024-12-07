@@ -36,5 +36,11 @@ Los circuitos de acondicionamiento de señal desempeñan un papel crucial al gar
 Los circuitos de amplificación mejoran las señales débiles, permitiendo que los componentes aguas abajo las interpreten con facilidad. Por otro lado, los circuitos de filtrado eliminan el ruido no deseado y las perturbaciones, asegurando que solo la señal deseada se retenga. 
 Los circuitos de aislamiento proporcionan una barrera protectora que protege los componentes electrónicos sensibles de factores externos potencialmente dañinos. Juntos, estos tres elementos forman la base del acondicionamiento de señal, optimizando la calidad e integridad de la señal en una amplia gama de aplicaciones, como las telecomunicaciones, la automatización industrial y los dispositivos médicos.
 
+## REFERENCIAS 
+1. JMIndustrial Technology [GitHub](https://www.jmi.com.mx/tarjetas-de-adquisicion-dedatos/#:~:text=Las%20tarjetas%20de%20adquisici%C3%B3n%20de%20datos%20(hardware)%20act%C3%BAan%20como%20la,int%C3%A9rprete%20que%20traduce%20de%20un) 
+2. SDIndustrial
+3. TRANSISTORES
+
+
 ### Desarrollado por 
 VICTOR EMANUEL CABAÑAS MONTES
