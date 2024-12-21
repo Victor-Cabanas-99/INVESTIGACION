@@ -1,7 +1,7 @@
 # INVESTIGACION
 ## **¿Qué es una tarjeta de adquisición de datos?**  
 Las tarjetas de adquisición de datos (hardware) actúan como la interfaz entre una computadora y señales físicas, es decir, la información recaudada por el sensor se pasa al DAQ, el cual se encarga de transformar los códigos del mundo real a los códigos digitales, como si se tratara de un intérprete que traduce de un lenguaje a otro, con el fin de que el sistema digital (es decir, cualquier computadora o dispositivo electrónico) sea capaz de comprender los signos del analógico.
-## **¿Qué es un HMI? ** 
+## ¿Qué es un HMI? 
 HMI son las siglas de human-machine interfaz y se refieren a un panel que permite a un usuario comunicarse con una máquina, software o sistema. Técnicamente, se puede referir a cualquier pantalla que se use para interactuar con un equipo, pero se utiliza normalmente para las de entornos industriales. Las HMI muestran datos en tiempo real y permiten al usuario controlar las máquinas con una interfaz gráfica de usuario. En un entorno industrial una HMI puede tener distintas formas. Puede ser una pantalla independiente, un panel acoplado a otro equipo o una tablet. Da igual su aspecto; su uso principal es permitir a los usuarios visualizar los datos operativos y controlar las máquinas.
 ## **Elementos de un sistema de adquisición** 
 Un sistema DAQ se conforma de 3 elementos principales: el sensor, las tarjetas de adquisición de datos (hardware) y una computadora (software programable).
