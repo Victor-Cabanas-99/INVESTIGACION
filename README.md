@@ -46,3 +46,4 @@ Los circuitos de aislamiento proporcionan una barrera protectora que protege los
 
 ### Desarrollado por 
 VICTOR EMANUEL CABAÑAS MONTES
+[Victor](https://github.com/Victor-Cabanas-99)
