@@ -45,5 +45,4 @@ Los circuitos de aislamiento proporcionan una barrera protectora que protege los
 [GitHub](https://transistores.info/circuitos-de-acondicionamiento-de-senal-amplificacion-filtrado-y-aislamiento/)
 
 ### Desarrollado por 
-VICTOR EMANUEL CABAÑAS MONTES
-[Victor](https://github.com/Victor-Cabanas-99)
+[VICTOR EMANUEL CABAÑAS MONTES](https://github.com/Victor-Cabanas-99)
